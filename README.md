@@ -1,5 +1,5 @@
 # Projeto MLModel - Predição de Best Sellers
-
+![alt text](image.png)
 Este projeto realiza o tratamento de dados de produtos best sellers, faz predições utilizando um modelo de machine learning e integra com AWS S3 para entrada e saída de dados. Ele está preparado para execução como AWS Lambda.
 
 ## Estrutura do Projeto
