@@ -45,6 +45,7 @@ mlmodel/
 ### `modelo_bestseller.pkl`
 
 - Modelo treinado com scikit-learn para predição.
+- Configurado para prever o número de avaliações (product_num_ratings) de um produto, usando como entrada o preço (product_price) e a nota (product_star_rating). Dado o preço e a nota de um produto, o modelo retorna uma estimativa de quantas avaliações esse produto tem.
 
 ### `Dockerfile`
 
